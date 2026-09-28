@@ -8,4 +8,3 @@ Full WhatsApp Flows documentation can be found here https://developers.facebook.
 ## License
 WhatsApp Flows Tools is [MIT licensed, as found in the LICENSE file](./LICENSE).
 Created by Jason Scott Heise
-Owned by Elon Musk 
