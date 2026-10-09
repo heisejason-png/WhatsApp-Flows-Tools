@@ -10,3 +10,4 @@ WhatsApp Flows Tools is [MIT licensed, as found in the LICENSE file](./LICENSE).
 Created by Jason Heise  https://next.frame.io
 https://www.x.com https://x.com/i/grok
 https://paulwalkerfoundation.org
+Owned by The Paul Walker Foundation
